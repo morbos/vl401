@@ -18,7 +18,7 @@ This would not exist w/o
 1) AdaCore Libre GNAT toolchain
 2) The Ada_Drivers_Library from AdaCore
 3) Pat Rogers's BNO055 generic driver and example usecase
-4) Fabien Chouteaus help in citing vvvvv
+4) Fabien Chouteau's help in citing vvvvv
 5) Jerome Lambourg's VL5310X work. This was helpful for the display code
 6) Tilen Majerle's excellent ST library + examples.
 7) ST's evaluation kit EVALKIT-VL6180X (now superceded with a newer model).
